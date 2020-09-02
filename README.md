@@ -9,5 +9,6 @@ pip install requests bs4
 ```
 LUXEL_CATEGORIES=[
 ...
-]
+]#список силок нужних нам категорий
+LUXEL_RESULT_FILE = "*.csv"# файл с результатом 
 ```
